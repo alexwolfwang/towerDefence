@@ -1,0 +1,17 @@
+#box {
+  width: 600px;
+  height: 600px;
+  background-color: rebeccapurple;
+  position: relative; }
+  #box #tower {
+    width: 30px;
+    height: 30px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 50%; }
+  #box .colorChange {
+    background-color: greenyellow; }
+
+/*# sourceMappingURL=towerTest.css.map */

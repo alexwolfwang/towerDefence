@@ -1,0 +1,22 @@
+#box {
+  width: 600px;
+  height: 600px;
+  background-color: rebeccapurple;
+  position: relative;
+
+  #tower{
+      width: 30px;
+      height: 30px;
+      top: 50%;
+      left: 50%;
+      position: absolute;
+      //background-color: #ac2925;
+      border: 1px solid black;
+      border-radius: 50%;
+
+  }
+
+  .colorChange {
+    background-color: greenyellow;
+  }
+}
