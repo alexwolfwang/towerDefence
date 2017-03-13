@@ -68,5 +68,8 @@ var resources = {
         { name : 'mario', value : 'Content/sprites/mario.png' },
         { name : 'zelda', value : 'Content/sprites/zelda.png' },
         { name : 'sonic', value : 'Content/sprites/sonic.png' }
+    ],
+    music: [
+
     ]
 }
